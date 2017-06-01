@@ -99,7 +99,7 @@
 				TargetAttributes = {
 					B76513061D166F41004CC145 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = JL54VFJL37;
+						DevelopmentTeam = RE2R3WNQPH;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -255,9 +255,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RE2R3WNQPH;
 				INFOPLIST_FILE = LightBulb/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.flatironschool.LightBulb;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatironschool.LightBulbss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -267,9 +268,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RE2R3WNQPH;
 				INFOPLIST_FILE = LightBulb/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.flatironschool.LightBulb;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatironschool.LightBulbss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
